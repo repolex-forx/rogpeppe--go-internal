@@ -1,0 +1,11 @@
+{
+  "org": "rogpeppe",
+  "repo": "go-internal",
+  "versions": [
+    {
+      "commit": "38c169d642f5e6ee08f0c90fe56b64c5ae2db19e",
+      "tag": "",
+      "parsed_at": "2026-11-10T04:11:45.395623+00:00"
+    }
+  ]
+}
