@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/rogpeppe/go-internal/commit/38c169d642f5e6ee08f0c90fe56b64c5ae2db19e",
       "git:hexsha": "38c169d642f5e6ee08f0c90fe56b64c5ae2db19e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/rogpeppe/go-internal/commit/f3d8186511ba5a2c1f5192bea44f8d6b97b5bbc1",
